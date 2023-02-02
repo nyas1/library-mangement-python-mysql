@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 #CREATING MYSQL TABLES
 import mysql.connector as mysql
 
@@ -223,22 +220,3 @@ def main():
             print("Thank You For Using Library Manager. Exiting Program..")
             break
 main()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
