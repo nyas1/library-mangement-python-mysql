@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://i.ibb.co/0FQXjkb/pngegg-1.png width="20%" height="20%">
+  <img src=https://i.ibb.co/0FQXjkb/pngegg-1.png width="30%" height="30%">
 </p> 
 
 <h1 align="center">📚LIBRARY MANAGEMENT SYSTEM📚</h1>
