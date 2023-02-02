@@ -1,7 +1,10 @@
-![logo](https://i.ibb.co/d0kwd3S/pngegg-1.png)
-# 📚Library Management System📚
+<p align="center">
+  <img src=https://i.ibb.co/0FQXjkb/pngegg-1.png width="20%" height="20%">
+</p> 
 
-This is a simple program for managing a library. It includes adding new books to the library, issuing books to members, submitting books by members and deleting books from the library.
+<h1 align="center">📚LIBRARY MANAGEMENT SYSTEM📚</h1>
+ 
+This is a simple program for managing a library. It includes adding new books to the library, issuing books to members, submitting books by members and deleting books from the library. I wrote this small code in my 12th class as a Computer Science Project🤓.
 
 ## 💡Features
 
@@ -9,12 +12,14 @@ This is a simple program for managing a library. It includes adding new books to
 * Issues books to members
 * Submits books by members
 * Deletes books from the library
+* Displays all the books of library
+* Displays record of issued and submitted books
 
 ## 💻Technologies Used
 
-* Python
-* MySQL
-* mysql-connector-python
+* 🐍 Python
+* 💾 MySQL
+* 🔌 mysql-connector-python
 
 ## 🧩Prerequisites
 
