@@ -1,8 +1,22 @@
-![Logo](https://i.ibb.co/d0kwd3S/pngegg-1.png)
-<p align="center">
- # LIBRARY MANAGEMENT SYSTEM
-</p>
+# 📚Library Management System📚
 
-I wrote this small program in my class 12th as a project.
+This is a simple program for managing a library. It includes adding new books to the library, issuing books to members, submitting books by members and deleting books from the library.
 
-This is a program that creates a library management system in MySQL. The program starts by creating a MySQL connection, creating the database "library", and creating tables "books", "issue", and "submit". The main program consists of functions for adding new books, issuing books, submitting books, and deleting entries. The functions connect to the "library" database and use the cursor object to execute SQL statements to interact with the tables.
+## 💡Features
+
+* Adds new books to the library
+* Issues books to members
+* Submits books by members
+* Deletes books from the library
+
+## 💻Technologies Used
+
+* Python
+* MySQL
+* mysql-connector-python
+
+## 🧩Prerequisites
+
+* Install python and MySQL in your system
+* Install mysql-connector-python using pip:
+`pip install mysql-connector-python`
