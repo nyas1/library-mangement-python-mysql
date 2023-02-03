@@ -37,7 +37,7 @@
 This is a simple program for managing a library. I wrote this small code in my 12th class as a Computer Science Project🤓.  
 It is a python script for creating a library management system using the MySQL database. The script first creates a connection to the MySQL server and checks if a database named 'library' exists. If it doesn't, it creates one. Then, it connects to the 'library' database and checks if the tables 'books', 'issue', and 'submit' exist. If any of them doesn't exist, it creates the table.
 
-Then the script contains several functions to add books, issue books, submit books and delete entries in the books table. The script uses the Python mysql connector library to interact with the MySQL database.
+Then the script contains several functions to add books, issue books, submit books, delete entries in the books table and display entries in the books, issue, submit table. The script uses the Python mysql connector library to interact with the MySQL database.
 
 The script is just a basic implementation of the library management system and can be improved and expanded upon based on the specific requirements.
 
