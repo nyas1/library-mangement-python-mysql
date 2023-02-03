@@ -2,8 +2,14 @@
   <img src=https://i.ibb.co/0FQXjkb/pngegg-1.png width="30%" height="30%">
 </p>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/528161316033265674)](https://discord.com/users/528161316033265674)
-
+<p align="center">
+  <a href="https://discord.com/users/528161316033265674">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://t.me/nyas69">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 <h1 align="center">📚LIBRARY MANAGEMENT SYSTEM📚</h1>
  
