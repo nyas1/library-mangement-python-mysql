@@ -24,7 +24,7 @@ This is a simple program for managing a library. It includes adding new books to
 * 💾 MySQL
 * 🔌 mysql-connector-python
 
-## Getting Started
+## 🛫Getting Started
 
 ### 🧩Prerequisites
 
@@ -54,3 +54,7 @@ con=mysql.connect(host="localhost",user="root",passwd="admin",database="library"
 ## ⛔Limitations
 
 * This program does not have any authentication mechanism. Hence, anyone who has access to the system can make changes to the library records.
+
+## 🪪License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/nyas1/library-mangement-python-mysql/blob/main/LICENSE.md) for more information.
