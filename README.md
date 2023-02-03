@@ -49,7 +49,7 @@ con=mysql.connect(host="localhost",user="root",passwd="admin",database="library"
 
 ## 🤔How to use
 * The program has seven functions: addbook(), issuebook(), submitbook(), delbook(), dispbook(), dispbook_issued(), dispbook_submitted()
-* Call these functions to add new books, issue books, submit books and delete & display books from the library.
+* Call these functions to add new books, issue books, submit books and delete & display books and records from the library database.
 
 ## ⛔Limitations
 
