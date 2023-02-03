@@ -11,6 +11,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/nyas1/library-mangement-python-mysql?color=dark-green&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/nyas1/library-mangement-python-mysql?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/nyas1/library-mangement-python-mysql?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/nyas1/library-mangement-python-mysql?style=for-the-badge">
+</p>
+
 <h1 align="center">📚LIBRARY MANAGEMENT SYSTEM📚</h1>
  
 This is a simple program for managing a library. It includes adding new books to the library, issuing books to members, submitting books by members and deleting books from the library. I wrote this small code in my 12th class as a Computer Science Project🤓.
