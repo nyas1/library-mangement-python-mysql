@@ -24,7 +24,9 @@ This is a simple program for managing a library. It includes adding new books to
 * 💾 MySQL
 * 🔌 mysql-connector-python
 
-## 🧩Prerequisites
+## Getting Started
+
+### 🧩Prerequisites
 
 * Install python and MySQL in your system
 * Install mysql-connector-python using pip:
@@ -32,12 +34,12 @@ This is a simple program for managing a library. It includes adding new books to
 pip install mysql-connector-python
 ```
 
-## 🏃‍♂️How to run
+### 🏃‍♂️How to run
 
 * Clone the repository
 * Run the program LibraryManagement.py
 
-## ⚙️Configuration
+### ⚙️Configuration
 
 * You can configure the MySQL connection details in the following lines of code:
 ```
