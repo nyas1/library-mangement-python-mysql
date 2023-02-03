@@ -1,6 +1,9 @@
 <p align="center">
   <img src=https://i.ibb.co/0FQXjkb/pngegg-1.png width="30%" height="30%">
-</p> 
+</p>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/528161316033265674)](https://discord.com/users/528161316033265674)
+
 
 <h1 align="center">📚LIBRARY MANAGEMENT SYSTEM📚</h1>
  
